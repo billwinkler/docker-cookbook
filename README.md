@@ -1,2 +1,2 @@
 ### docker-cookbooks
-A collection of DockerFiles.
+A collection of DockerFiles. 
